@@ -2,9 +2,9 @@
 
 |Alunos|Nome|
 |:---:|:---:|
-|0|Lucas Braz Dias
-|1|Tais Gomes Salomão
-|2|Priscila Aparecida Silva
+|1|Lucas Braz Dias
+|2|Tais Gomes Salomão
+|3|Priscila Aparecida Silva
 ---
 ## Atividade para Técnica de Programação I
 - Objetivo
