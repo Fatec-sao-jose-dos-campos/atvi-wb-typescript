@@ -1,7 +1,7 @@
 # atvi-wb-typescript
 
-|Alunos|Nome|Nick|
-|:---:|:---:|:---:|
+|Alunos|Nome|
+|:---:|:---:|
 |0|Lucas Braz Dias
 |1|Tais Gomes Salomão
 |2|Priscila Aparecida Silva
@@ -16,7 +16,7 @@ Tendo a ferramenta Git e NodeJS instalados em seu computador:
 - Abra o Prompt de Comando no caminho de um novo diretório e copie o seguinte comando para clonar o nosso repositório:
 
 ```
-git clone https://github.com/Grupo-VPN/atvi-wb-typescript
+git clone https://github.com/grupo-LTP/atvi-wb-typescript.git
 ```
 - Dentro da pasta root do projeto, digite o seguinte comando para a geração dos arquivos JS:
 ```
